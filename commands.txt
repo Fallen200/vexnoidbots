@@ -1,0 +1,14 @@
+**Commands**
+
+__**Useful Commands**__
+```Help - List all the commands```
+
+__**Info Commands**__
+```Messages - Tells you how much messages you have sent
+UserInfo - List info about the user
+VexNoid -  List info for VexNoid```
+
+__**Features**__
+```AntiSwear - Blocks SwearWords
+AutoRole And Welcome - Gives a user a role when they join and welcomes them```
+
